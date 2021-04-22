@@ -578,7 +578,7 @@
             "mode": "script",
             "value": "(function execute() {\n\t    // If the value of search_count is less than 3, return true\n\t    // otherwise, return false\n\t    if (vaVars.search_count &lt; 3)\n\t        return true;\n\t    else\n\t        return false;\n\t})()"
           },
-          "label": "Yes"
+          "label": "Less than 3 searches"
         },
         {
           "id": "9d29e5c25ca44ba7bf34043e671f9f6d",
@@ -754,14 +754,14 @@
         <sys_created_on>2021-04-15 23:52:47</sys_created_on>
         <sys_domain>global</sys_domain>
         <sys_id>7af48dad2f676010be2a821df699b620</sys_id>
-        <sys_mod_count>17</sys_mod_count>
+        <sys_mod_count>18</sys_mod_count>
         <sys_name>Update NeedIt Records</sys_name>
         <sys_package display_value="NeedIt Virtual Agent Conversations" source="x_589380_needit_vi">8d4389692f676010be2a821df699b6b0</sys_package>
         <sys_policy/>
         <sys_scope display_value="NeedIt Virtual Agent Conversations">8d4389692f676010be2a821df699b6b0</sys_scope>
         <sys_update_name>sys_cb_topic_7af48dad2f676010be2a821df699b620</sys_update_name>
         <sys_updated_by>admin</sys_updated_by>
-        <sys_updated_on>2021-04-22 19:43:44</sys_updated_on>
+        <sys_updated_on>2021-04-22 19:45:54</sys_updated_on>
         <type>STANDARD</type>
         <variables/>
     </sys_cb_topic>
